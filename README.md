@@ -12,12 +12,12 @@ Principal Goals:
 • Protect voter privacy (votes that are anonymous but verified). 
 
 Component Diagram:
-
+![alt text](image-8.png)
  
 
 UML Diagram:
 
- 
+ ![alt text](<Untitled Diagram.drawio.png>)
 
 
 GitHub Url: https://github.com/Mbajpai007/Secure-Online-voting-Systems
